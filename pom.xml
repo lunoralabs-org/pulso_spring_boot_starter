@@ -33,7 +33,7 @@
 		<maven.compiler.release>17</maven.compiler.release>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<!-- Compiled and tested against the oldest supported line; CI also tests the newest (profile boot4) -->
-		<spring-boot.version>3.5.16</spring-boot.version>
+		<spring-boot.version>4.1.2</spring-boot.version>
 	</properties>
 
 	<dependencyManagement>
